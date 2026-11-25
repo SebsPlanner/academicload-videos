@@ -1,0 +1,60 @@
+{
+ "note": "Backlogged videos not yet scheduled in Buffer. The Sunday task schedules these at 8:00pm PT as Buffer free-plan slots allow, then removes each entry once scheduled. URL: https://raw.githubusercontent.com/SebsPlanner/academicload-videos/main/backlog/<file>",
+ "items": [
+  {
+   "file": "set8-mon-syllabus.mp4",
+   "text": "Shined a UV light on my syllabus and found 6 hidden deadlines 🔦\n\nHow many deadlines are in your syllabus right now?\n\n#unlv #collegestudent #syllabus #studytok",
+   "look": "ember"
+  },
+  {
+   "file": "set8-tue-week.mp4",
+   "text": "My week crashed harder than the market 📉\n\nWhat's your worst day this week?\n\n#unlv #collegestudent #finals #collegelife",
+   "look": "ocean"
+  },
+  {
+   "file": "set8-thu-groups.mp4",
+   "text": "T-minus 10. 4 friends. 1 free window. Go for launch 🚀\n\nWho in your group is always late?\n\n#unlv #collegestudent #studygroup #studytok",
+   "look": "lime"
+  },
+  {
+   "file": "set8-fri-whiteboard.mp4",
+   "text": "Guess the drawing in 10 seconds ✏️\n\nComment your guess before the reveal.\n\n#unlv #collegestudent #studygroup #studytok",
+   "look": "violet"
+  },
+  {
+   "file": "set8-sat-flashcards.mp4",
+   "text": "Brain day. 50 reps. No skips 🏋️\n\nHow many flashcards can you do in one sitting?\n\n#unlv #collegestudent #flashcards #studytips",
+   "look": "teal"
+  },
+  {
+   "file": "set9-wed-grades.mp4",
+   "text": "How hard do I swing? 98.7% on the final 🔔\n\nWhat's the highest you've ever needed on a final?\n\n#unlv #collegestudent #finals #gradecalculator",
+   "look": "magenta"
+  },
+  {
+   "file": "set9-thu-groups.mp4",
+   "text": "4 schedules, 1 free hour. Line clear 🧱\n\nWhen is your group actually free?\n\n#unlv #collegestudent #studygroup #finals",
+   "look": "mint"
+  },
+  {
+   "file": "set9-fri-whiteboard.mp4",
+   "text": "We're live. Tonight: calc review 🎙️\n\nWhat class needs a live review the most?\n\n#unlv #collegestudent #studytok #calculus",
+   "look": "rose"
+  },
+  {
+   "file": "set9-sat-flashcards.mp4",
+   "text": "I paid $0 for this. 40 cards, 1 button 🥤\n\nWhat class would you make a deck for first?\n\n#unlv #collegestudent #flashcards #studytips",
+   "look": "forest"
+  },
+  {
+   "file": "set10-mon-syllabus.mp4",
+   "text": "Gone fishing in my syllabus. Caught: a final 🎣\n\nWhat's the biggest thing hiding in your syllabus?\n\n#unlv #collegestudent #syllabus #studytok",
+   "look": "sunset"
+  },
+  {
+   "file": "set10-tue-week.mp4",
+   "text": "This week is a ride. Tuesday is the drop 🎢\n\nWhich day is your drop?\n\n#unlv #collegestudent #finals #collegelife",
+   "look": "ember"
+  }
+ ]
+}
